@@ -15,7 +15,7 @@
   <a href="https://harihara5.github.io"><img src="./assets/swarm-3d.gif" alt="Real-time 3D render: five drones scan a containment dome with LiDAR, GPR and hyperspectral sensors" width="100%"/></a>
 </p>
 <p align="center">
-  <sub>▲ live WebGL render · five-drone swarm · no GPS · point cloud building in real time</sub>
+  <sub>▲ live WebGL render · 8 drones + 4 ground robots · no GPS · cross-modal defect handoff · federated learning · spoof defense</sub>
 </p>
 <p align="center">
   <a href="https://harihara5.github.io"><img src="./assets/enter.svg" alt="Enter Mission Control: interactive 3D site" width="420"/></a>
@@ -37,7 +37,7 @@
   <img src="./assets/fusion.svg" alt="LiDAR, GPR and hyperspectral data fused into a defect map" width="100%"/>
 </p>
 
-Three sensors, three different views of the same wall. **LiDAR** maps the surface geometry, **Ground Penetrating Radar** looks *inside* the concrete for rebar and voids, and **hyperspectral imaging** reads chemistry the human eye can't see. Fuse them, and you get a defect map no single sensor could produce. Then a **vision-language agent** reads that map and decides where the swarm flies next.
+Different sensors, different views of the same wall. **LiDAR** maps the surface geometry, **Ground Penetrating Radar** looks *inside* the concrete for rebar and voids, and **hyperspectral imaging** reads chemistry the human eye can't see. Fuse them, and you get a defect map no single sensor could produce. Then a **vision-language agent** reads that map and decides where the swarm flies next.
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -101,16 +101,15 @@ Spectral signatures from 400 to 1000 nm turned into material and damage maps.
 
 ## 📚 `> flight log: publications`
 
-<!-- Fill in titles + DOIs. -->
-
-| | Venue | Paper |
-|:-:|---|---|
-| 📄 | ![IEEE](https://img.shields.io/badge/IEEE-Sensors_Journal-00629B?style=flat-square&logo=ieee&logoColor=white) | *Title here* · [DOI](https://doi.org/) |
-| 📄 | ![MDPI](https://img.shields.io/badge/MDPI-Future_Internet-4F5671?style=flat-square) | ***PRAHARI**: title here* · [DOI](https://doi.org/) |
-| 📄 | ![MDPI](https://img.shields.io/badge/MDPI-Future_Internet-4F5671?style=flat-square) | *Title here* · [DOI](https://doi.org/) |
+| | Venue | Work | Status |
+|:-:|---|---|:-:|
+| 🛡️ | ![MDPI](https://img.shields.io/badge/MDPI-Future_Internet-4F5671?style=flat-square) | **PRAHARI**: drones as calibrated aerial trust anchors for radiological IoT sensor networks | ![](https://img.shields.io/badge/accepted-2026-4be39b?style=flat-square) |
+| ⚔️ | ![EAI](https://img.shields.io/badge/EAI-ICDF2C-6b7280?style=flat-square) | Impact of cyber attacks on autonomous drone inspection of containment structures | ![](https://img.shields.io/badge/accepted-4be39b?style=flat-square) |
+| 📡 | ![IEEE](https://img.shields.io/badge/IEEE-Sensors_Journal-00629B?style=flat-square&logo=ieee&logoColor=white) | Physics-based simulation framework for benchmarking LiDAR + GPR fusion | ![](https://img.shields.io/badge/published-3ee0f0?style=flat-square) |
+| 🛰️ | ![MDPI](https://img.shields.io/badge/MDPI-Future_Internet-4F5671?style=flat-square) | LSTM-VAE detection of anomalous drone trajectories | ![](https://img.shields.io/badge/published-3ee0f0?style=flat-square) |
 
 <details>
-<summary><b>📖 Book chapters & conference papers</b> (click to expand)</summary>
+<summary><b>📖 Book chapters, conference papers & more in the pipeline</b> (click to expand)</summary>
 <br/>
 
 - *Add here*
@@ -126,9 +125,23 @@ Spectral signatures from 400 to 1000 nm turned into material and damage maps.
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Deep_Learning-0b1220?style=for-the-badge&color=3ee0f0"/>
+  <img src="https://img.shields.io/badge/Generative_AI-0b1220?style=for-the-badge&color=ffb547"/>
+  <img src="https://img.shields.io/badge/Agentic_AI_(LLM%2FVLM)-0b1220?style=for-the-badge&color=a98bff"/>
+  <img src="https://img.shields.io/badge/Federated_Learning-0b1220?style=for-the-badge&color=5ef2c5"/>
+  <img src="https://img.shields.io/badge/Edge_AI-0b1220?style=for-the-badge&color=4be39b"/>
+  <img src="https://img.shields.io/badge/Cyber_Security-0b1220?style=for-the-badge&color=ff4d6a"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/LiDAR-0b1220?style=for-the-badge&color=22d3ee"/>
   <img src="https://img.shields.io/badge/Ground_Penetrating_Radar-0b1220?style=for-the-badge&color=a78bfa"/>
   <img src="https://img.shields.io/badge/Hyperspectral-0b1220?style=for-the-badge&color=facc15"/>
+  <img src="https://img.shields.io/badge/Thermal_IR-0b1220?style=for-the-badge&color=ff6a3d"/>
+  <img src="https://img.shields.io/badge/Gamma_%2B_Neutron-0b1220?style=for-the-badge&color=9dff4a"/>
+  <img src="https://img.shields.io/badge/Acoustic_Beacons-0b1220?style=for-the-badge&color=5ef2c5"/>
+  <img src="https://img.shields.io/badge/RGB--D-0b1220?style=for-the-badge&color=e2e8f0"/>
+  <img src="https://img.shields.io/badge/Ultrasonic-0b1220?style=for-the-badge&color=a78bfa"/>
   <img src="https://img.shields.io/badge/PX4-0b1220?style=for-the-badge&color=0B5394"/>
   <img src="https://img.shields.io/badge/ArduPilot-0b1220?style=for-the-badge&color=64748b"/>
   <img src="https://img.shields.io/badge/Gazebo-0b1220?style=for-the-badge&color=F58113"/>
