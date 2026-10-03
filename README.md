@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Drone swarm scanning a concrete containment dome" width="100%"/>
+  <img src="./assets/title.svg" alt="Hari Hara Babu Saripalli" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://harihara5.github.io"><img src="./assets/swarm-3d.gif" alt="Real-time 3D render: a heterogeneous drone and ground-robot swarm inspects a nuclear site" width="100%"/></a>
+</p>
+<p align="center">
+  <sub>▲ live WebGL render · 8 drones + 4 ground robots · no GPS · cross-modal defect handoff · federated learning · spoof defense</sub>
 </p>
 
 <p align="center">
@@ -8,15 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Drones+that+see+through+concrete+%F0%9F%93%A1;Swarms+that+fly+where+GPS+doesn't+%F0%9F%9B%B0%EF%B8%8F;LiDAR+%2B+GPR+%2B+Hyperspectral+%3D+one+brain+%F0%9F%A7%A0;VLM+agents+that+decide+what+to+inspect+next+%F0%9F%A4%96" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Drones+that+see+through+concrete+%F0%9F%93%A1;Swarms+that+fly+where+GPS+doesn't+%F0%9F%9B%B0%EF%B8%8F;LiDAR+%C2%B7+GPR+%C2%B7+HSI+%C2%B7+Thermal+%C2%B7+Rad+%C2%B7+Acoustic+%F0%9F%A7%A0;VLM+agents+that+decide+what+to+inspect+next+%F0%9F%A4%96" alt="typing intro"/>
 </p>
 
-<p align="center">
-  <a href="https://harihara5.github.io"><img src="./assets/swarm-3d.gif" alt="Real-time 3D render: five drones scan a containment dome with LiDAR, GPR and hyperspectral sensors" width="100%"/></a>
-</p>
-<p align="center">
-  <sub>▲ live WebGL render · 8 drones + 4 ground robots · no GPS · cross-modal defect handoff · federated learning · spoof defense</sub>
-</p>
 <p align="center">
   <a href="https://harihara5.github.io"><img src="./assets/enter.svg" alt="Enter Mission Control: interactive 3D site" width="420"/></a>
 </p>
