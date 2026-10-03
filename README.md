@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://harihara5.github.io"><img src="./assets/swarm-3d.gif" alt="Real-time 3D render: a heterogeneous drone and ground-robot swarm inspects a nuclear site" width="100%"/></a>
+  <a href="https://harihara5.github.io/HARI-HARA/"><img src="./assets/swarm-3d.gif" alt="Real-time 3D render: a heterogeneous drone and ground-robot swarm inspects a nuclear site" width="100%"/></a>
 </p>
 <p align="center">
   <sub>▲ live WebGL render · 8 drones + 4 ground robots · no GPS · cross-modal defect handoff · federated learning · spoof defense</sub>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://harihara5.github.io"><img src="./assets/enter.svg" alt="Enter Mission Control: interactive 3D site" width="420"/></a>
+  <a href="https://harihara5.github.io/HARI-HARA/"><img src="./assets/enter.svg" alt="Enter Mission Control: interactive 3D site" width="420"/></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%"/>
