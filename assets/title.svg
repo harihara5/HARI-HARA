@@ -5,9 +5,9 @@
   </defs>
   <rect width="1200" height="190" fill="url(#bg)"/>
   <path d="M14 40 V14 H40 M1160 14 H1186 V40 M1186 150 V176 H1160 M40 176 H14 V150" fill="none" stroke="#3ee0f0" stroke-width="2"/>
-  <text x="48" y="52" font-family="Consolas,Menlo,monospace" font-size="14" letter-spacing="4" fill="#3ee0f0">// MISSION: CRITICAL INFRASTRUCTURE ASSESSMENT</text>
-  <text x="46" y="126" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="72" letter-spacing="1" fill="#dbe5f0">HARI HARA BABU <tspan fill="none" stroke="#3ee0f0" stroke-width="2" filter="url(#glow)">SARIPALLI</tspan></text>
-  <text x="48" y="162" font-family="Consolas,Menlo,monospace" font-size="15" fill="#7d8ea3">PhD Candidate · FIU Applied Research Center · Miami · heterogeneous robot swarms for nuclear and civil concrete</text>
-  <circle cx="1132" cy="52" r="5" fill="#ff4d6a"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
-  <text x="1120" y="57" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="13" fill="#ff4d6a">LIVE</text>
+  <text x="600" y="52" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14" letter-spacing="4" fill="#3ee0f0">// MISSION: CRITICAL INFRASTRUCTURE ASSESSMENT</text>
+  <text x="600" y="126" text-anchor="middle" textLength="1000" lengthAdjust="spacingAndGlyphs" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="72" fill="#dbe5f0">HARI HARA BABU <tspan fill="none" stroke="#3ee0f0" stroke-width="2" filter="url(#glow)">SARIPALLI</tspan></text>
+  <text x="600" y="162" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="15" fill="#7d8ea3">PhD Candidate · FIU Applied Research Center · Miami · heterogeneous robot swarms for nuclear and civil concrete</text>
+  <circle cx="1150" cy="40" r="5" fill="#ff4d6a"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <text x="1138" y="45" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="13" fill="#ff4d6a">LIVE</text>
 </svg>
