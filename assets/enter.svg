@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" width="420" height="64">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#3ee0f0"/><stop offset="1" stop-color="#a98bff"/></linearGradient>
+    <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="c"><rect x="2" y="2" width="416" height="60"/></clipPath>
+  </defs>
+  <rect x="2" y="2" width="416" height="60" fill="#05080f" stroke="url(#g)" stroke-width="2"/>
+  <g clip-path="url(#c)"><rect x="-120" y="0" width="90" height="64" fill="url(#shine)" transform="skewX(-20)"><animate attributeName="x" values="-120;520" dur="2.6s" repeatCount="indefinite"/></rect></g>
+  <path d="M2 16 V2 H16 M404 2 H418 V16 M418 48 V62 H404 M16 62 H2 V48" fill="none" stroke="#3ee0f0" stroke-width="3"/>
+  <circle cx="34" cy="32" r="5" fill="#ff4d6a"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <text x="50" y="38" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#dbe5f0" letter-spacing="2">ENTER MISSION CONTROL  ›</text>
+</svg>
