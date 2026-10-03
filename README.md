@@ -165,8 +165,8 @@ Spectral signatures from 400 to 1000 nm turned into material and damage maps.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harihara5/harihara5/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/harihara5/harihara5/output/github-snake.svg" alt="snake eating my contribution graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harihara5/HARI-HARA/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/harihara5/HARI-HARA/output/github-snake.svg" alt="snake eating my contribution graph"/>
   </picture>
 </p>
 
