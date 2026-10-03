@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee" stop-opacity=".6"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
+  </defs>
+  <line x1="0" y1="20" x2="1200" y2="20" stroke="url(#l)" stroke-width="1.5" stroke-dasharray="2 6"/>
+  <g>
+    <animateMotion dur="7s" repeatCount="indefinite" path="M-40 20 C 300 6, 600 34, 1240 20"/>
+    <line x1="-60" y1="0" x2="-14" y2="0" stroke="#22d3ee" stroke-opacity=".5" stroke-width="2"/>
+    <line x1="-11" y1="-5" x2="11" y2="5" stroke="#e2e8f0" stroke-width="2"/>
+    <line x1="-11" y1="5" x2="11" y2="-5" stroke="#e2e8f0" stroke-width="2"/>
+    <rect x="-5" y="-3.5" width="10" height="7" rx="2" fill="#0f172a" stroke="#22d3ee" stroke-width="1.5"/>
+    <g fill="#94a3b8" fill-opacity=".6">
+      <ellipse cx="-11" cy="-5" rx="7" ry="1.5"><animate attributeName="rx" values="7;2;7" dur=".12s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="11" cy="5" rx="7" ry="1.5"><animate attributeName="rx" values="2;7;2" dur=".12s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="-11" cy="5" rx="7" ry="1.5"><animate attributeName="rx" values="7;2;7" dur=".14s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="11" cy="-5" rx="7" ry="1.5"><animate attributeName="rx" values="2;7;2" dur=".14s" repeatCount="indefinite"/></ellipse>
+    </g>
+  </g>
+</svg>

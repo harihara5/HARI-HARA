@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 352" width="1200" height="352">
+<rect width="1200" height="352" rx="12" fill="#0b1020" stroke="#1e293b"/>
+<rect width="1200" height="34" rx="12" fill="#111827"/><rect y="22" width="1200" height="12" fill="#111827"/>
+<circle cx="22" cy="17" r="6" fill="#f43f5e"/>
+<circle cx="42" cy="17" r="6" fill="#fbbf24"/>
+<circle cx="62" cy="17" r="6" fill="#34d399"/>
+<text x="600.0" y="22" text-anchor="middle" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">mission_control · bash · 120×10</text>
+<defs>
+<clipPath id="c0"><rect x="0" y="42" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.0214;0.0857;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="0" y="68" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.1036;0.1214;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="0" y="94" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.1321;0.1500;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="0" y="120" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.1607;0.2250;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c4"><rect x="0" y="146" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.2429;0.2607;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c5"><rect x="0" y="172" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.2714;0.3357;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c6"><rect x="0" y="198" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.3536;0.3714;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c7"><rect x="0" y="224" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.3821;0.4000;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c8"><rect x="0" y="250" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.4107;0.4750;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c9"><rect x="0" y="276" height="26" width="0"><animate attributeName="width" values="0;0;1200;1200;0" keyTimes="0;0.4929;0.5107;.97;1" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<text x="24" y="62" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#e2e8f0" clip-path="url(#c0)"><tspan fill="#34d399">hari@fiu-arc:~</tspan><tspan fill="#64748b">$</tspan> whoami</text>
+<text x="24" y="88" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#94a3b8" clip-path="url(#c1)">Hari Hara Babu Saripalli · PhD Candidate, Mechanical Engineering</text>
+<text x="24" y="114" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#94a3b8" clip-path="url(#c2)">lab: FIU Applied Research Center · advisor: Dr. Leonel Lagos</text>
+<text x="24" y="140" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#e2e8f0" clip-path="url(#c3)"><tspan fill="#34d399">hari@fiu-arc:~</tspan><tspan fill="#64748b">$</tspan> cat dissertation.txt</text>
+<text x="24" y="166" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#22d3ee" clip-path="url(#c4)">Critical Infrastructure Assessment using Autonomous Swarm of Drones with Sensor Payloads</text>
+<text x="24" y="192" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#e2e8f0" clip-path="url(#c5)"><tspan fill="#34d399">hari@fiu-arc:~</tspan><tspan fill="#64748b">$</tspan> ls ./research</text>
+<text x="24" y="218" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#a78bfa" clip-path="url(#c6)">multi_sensor_nde_fusion/  gps_denied_navigation/  vlm_agentic_inspection/</text>
+<text x="24" y="244" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#a78bfa" clip-path="url(#c7)">drone_swarm_coordination/  hybrid_uas_ugv_wall_drone/  hyperspectral_mapping/</text>
+<text x="24" y="270" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#e2e8f0" clip-path="url(#c8)"><tspan fill="#34d399">hari@fiu-arc:~</tspan><tspan fill="#64748b">$</tspan> python fun_fact.py</text>
+<text x="24" y="296" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#34d399" clip-path="url(#c9)">EEE undergrad who now builds drones that climb walls. Speaks Telugu, Python and MATLAB.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.521;0.526;.97;1" dur="14.0s" repeatCount="indefinite"/><text x="24" y="322" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" fill="#34d399">hari@fiu-arc:~$</text><rect x="168" y="308" width="9" height="17" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>
