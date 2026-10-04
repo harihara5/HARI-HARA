@@ -50,10 +50,11 @@
 
 | | Venue | Work | Status |
 |:-:|---|---|:-:|
+| 📡 | ![IEEE](https://img.shields.io/badge/IEEE-Sensors_Journal-00629B?style=flat-square&logo=ieee&logoColor=white) | **[Physics-Based Simulation Framework for Multi-Sensor Fusion Benchmarking in UAV Concrete Inspection: A Monte Carlo Reproducibility Study](https://doi.org/10.1109/JSEN.2026.3703331)** · 2026 | [![DOI](https://img.shields.io/badge/DOI-10.1109%2FJSEN.2026.3703331-3ee0f0?style=flat-square)](https://doi.org/10.1109/JSEN.2026.3703331) |
+| 🛰️ | ![MDPI](https://img.shields.io/badge/MDPI-Future_Internet-4F5671?style=flat-square) | **[LSTM-VAE for Temporal Anomaly Detection in Drone Trajectory Analysis: A Comparative Study for Critical Infrastructure Protection](https://doi.org/10.3390/fi18060301)** · 2026 · 18(6), 301 | [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ffi18060301-3ee0f0?style=flat-square)](https://doi.org/10.3390/fi18060301) |
+| ☢️ | ![ANS](https://img.shields.io/badge/ANS-Transactions-8b5cf6?style=flat-square) | **[Drone LiDAR and Ground-Penetrating Radar Simulation for Concrete Inspection in Nuclear Facilities](https://doi.org/10.13182/T134-11489)** · 2026 · Vol. 134, p. 224 | [![DOI](https://img.shields.io/badge/DOI-10.13182%2FT134--11489-3ee0f0?style=flat-square)](https://doi.org/10.13182/T134-11489) |
 | 🛡️ | ![MDPI](https://img.shields.io/badge/MDPI-Future_Internet-4F5671?style=flat-square) | **PRAHARI**: drones as calibrated aerial trust anchors for radiological IoT sensor networks | ![](https://img.shields.io/badge/accepted-2026-4be39b?style=flat-square) |
 | ⚔️ | ![EAI](https://img.shields.io/badge/EAI-ICDF2C-6b7280?style=flat-square) | Impact of cyber attacks on autonomous drone inspection of containment structures | ![](https://img.shields.io/badge/accepted-4be39b?style=flat-square) |
-| 📡 | ![IEEE](https://img.shields.io/badge/IEEE-Sensors_Journal-00629B?style=flat-square&logo=ieee&logoColor=white) | Physics-based simulation framework for benchmarking LiDAR + GPR fusion | ![](https://img.shields.io/badge/published-3ee0f0?style=flat-square) |
-| 🛰️ | ![MDPI](https://img.shields.io/badge/MDPI-Future_Internet-4F5671?style=flat-square) | LSTM-VAE detection of anomalous drone trajectories | ![](https://img.shields.io/badge/published-3ee0f0?style=flat-square) |
 | 📖 | Book chapters · conference papers | More in the pipeline, full list on request | ![](https://img.shields.io/badge/logged-7d8ea3?style=flat-square) |
 
 <img src="./assets/divider.svg" width="100%"/>
